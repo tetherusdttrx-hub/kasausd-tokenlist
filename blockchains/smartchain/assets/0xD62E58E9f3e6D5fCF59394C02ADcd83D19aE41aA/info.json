@@ -1,0 +1,16 @@
+{
+  "name": "KASAUSD",
+  "type": "BEP20",
+  "symbol": "USDT.ks",
+  "decimals": 12,
+  "website": "https://kasausd.com",
+  "description": "KASAUSD is a multi-asset trading and global liquidity settlement token on BNB Smart Chain.",
+  "explorer": "https://bscscan.com",
+  "status": "active",
+  "id": "0xD62E58E9f3e6D5fCF59394C02ADcd83D19aE41aA",
+  "tags": ["defi"],
+  "links": [
+    { "name": "twitter", "url": "https://x.com" },
+    { "name": "telegram", "url": "https://t.me" }
+  ]
+}

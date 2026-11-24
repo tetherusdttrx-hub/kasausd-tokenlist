@@ -1,0 +1,17 @@
+{
+  "name": "KASAUSD Official Token List",
+  "timestamp": "2026-11-25T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "logoURI": "https://githubusercontent.com",
+  "keywords": ["kasausd", "bep20", "bsc", "forex", "commodities"],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xD62E58E9f3e6D5fCF59394C02ADcd83D19aE41aA",
+      "name": "KASAUSD",
+      "symbol": "USDT.ks",
+      "decimals": 12,
+      "logoURI": "https://githubusercontent.com"
+    }
+  ]
+}
