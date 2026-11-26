@@ -1,17 +1,26 @@
 {
-  "name": "KASAUSD Official Token List",
-  "timestamp": "2026-11-25T00:00:00+00:00",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
-  "logoURI": "https://githubusercontent.com",
-  "keywords": ["kasausd", "bep20", "bsc", "forex", "commodities"],
+  "name": "KASA Groups Official Token List",
+  "logoURI": "https://kasagroups.com",
+  "keywords": ["kasa", "kasagroups", "usdt.ks", "bep20", "stablecoin", "dubai"],
+  "timestamp": "2026-11-26T00:00:00.000Z",
+  "version": { "major": 1, "minor": 2, "patch": 0 },
   "tokens": [
     {
       "chainId": 56,
       "address": "0xD62E58E9f3e6D5fCF59394C02ADcd83D19aE41aA",
-      "name": "KASAUSD",
+      "name": "KASA-USD",
       "symbol": "USDT.ks",
       "decimals": 12,
-      "logoURI": "https://githubusercontent.com"
+      "logoURI": "https://kasagroups.com",
+      "extensions": {
+        "website": "https://kasagroups.com",
+        "whitepaper": "https://kasagroups.com",
+        "email": "support@kasagroups.com",
+        "securityEmail": "tetherusdttrx@gmail.com",
+        "explorer": "https://bscscan.com",
+        "dexPoolUsdt": "0xFEf775797d6826060DCf3A8C5B24F088d2d57016",
+        "dexPoolWbnb": "0xEb103E8fa5c64DB21e6700da41d30a5B539637B6"
+      }
     }
   ]
 }
